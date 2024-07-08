@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-together
+langchain-core
+faiss-cpu
+faiss-gpu
+langgraph
+sentence-transformers
+gradio
+pypdf
